@@ -49,3 +49,10 @@ Default board: [1,3,5,7,9]
 - `trainer.py`: Training loop and self-play
 - `tournament.py`: Model comparison
 - `analysis.py`: Performance analysis
+
+## Acknowledgements
+
+I would like to thank:
+
+- Dr Søren Riis (Queen Mary University of London) for his supervision and guidance throughout this project
+- Bei Zhou for providing the initial codebase and guidance that formed the foundation of this work
